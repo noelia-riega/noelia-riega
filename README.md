@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ux design and react
 - 💞️ I’m looking to collaborate on frontend development projects
 - 📫 How to reach me noeliariega@gmail.com
-- ⚡ Fun fact: I like cats, books, anime and coffee
+- ⚡ Fun fact: meow!
 
 <!---
 noelia-riega/noelia-riega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
